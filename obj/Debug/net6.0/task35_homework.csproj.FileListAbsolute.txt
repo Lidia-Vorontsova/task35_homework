@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\bin\Debug\net6.0\task35_homework.exe
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\bin\Debug\net6.0\task35_homework.deps.json
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\bin\Debug\net6.0\task35_homework.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\bin\Debug\net6.0\task35_homework.dll
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\bin\Debug\net6.0\task35_homework.pdb
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.dll
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\refint\task35_homework.dll
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.pdb
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\task35_homework.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\Seminar5\task35_homework\obj\Debug\net6.0\ref\task35_homework.dll
